@@ -1,0 +1,7 @@
+black==19.10b0
+isort==4.3.21
+jupyter==1.0.0
+jupyter_contrib_nbextensions==0.5.1
+librosa==0.8.1
+matplotlib==3.2.2
+scipy==1.6.2
